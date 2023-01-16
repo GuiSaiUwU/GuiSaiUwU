@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/elderwoodreksai" target="blank"><img src="https://img.shields.io/twitter/follow/elderwoodreksai?logo=twitter&style=for-the-badge" alt="elderwoodreksai" /></a> </p>
 
-- 🔭 Meu Ultimo projeto: [CriadorDeMascara](https://github.com/GuiSaiUwU/CriadorDeMascara)
+- 🔭 Meu Ultimo projeto: [LeagueModding](https://github.com/GuiSaiUwU/LeagueModding)
 
 - 🌱 Aparentemente aprendendo: **Python**
 
