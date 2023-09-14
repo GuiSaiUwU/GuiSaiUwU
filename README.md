@@ -13,7 +13,6 @@
 
 <h3 align="left">Você também pode me encontrar em:</h3>
 <p align="left">
-<a href="https://twitter.com/elderwoodreksai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elderwoodreksai" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/☆guardian☆" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="☆guardian☆" height="30" width="40" /></a>
 <a href="https://discord.gg/FVvb9gVyUF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FVvb9gVyUF" height="30" width="40" /></a>
 </p>
