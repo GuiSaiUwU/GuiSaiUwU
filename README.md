@@ -1,28 +1,24 @@
-<h1 align="center">👋 Opa, me chamo Guilherme, ou GuiSai</h1>
-<h3 align="center">Faço mods de league of legends como passa tempo</h3>
+<h1 align="center">Hi 👋, I'm Guilherme, you can call me GuiSai</h1>
+<h3 align="center">Using Python and currently learning Rust to make my life easier</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guisaiuwu&label=Profile%20views&color=0e75b6&style=flat" alt="guisaiuwu" /> </p>
 
-- 🔭 Meu Ultimo projeto: [LeagueModding](https://github.com/GuiSaiUwU/LeagueModding)
+- 🔭 I’m currently working on [Documenting LtMAO pyRitoFile](https://github.com/GuiSaiUwU/LtMAO)
 
-- 🌱 Aparentemente aprendendo: **Python**
+- 🌱 I’m currently learning **Rust**
 
-- 💬 Pode me perguntar sobre: **criação de mods de LOL uwu**
+- 🤝 I’m looking for help with [myLife](https://github.com/GuiSaiUwU)
 
-- 📫 Meu Discord pessoal: **GuiSai#7920**
+- 💬 Ask me about **Python, Basic Logic**
 
-<h3 align="left">Você também pode me encontrar em:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/☆guardian☆" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="☆guardian☆" height="30" width="40" /></a>
-<a href="https://discord.gg/FVvb9gVyUF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FVvb9gVyUF" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Linguagens e outras coisas ai:</h3>
-<p align="left"> <a href="www.autodesk.com" target="_blank" rel="noreferrer"> <img src="https://www.modena.co.za/wp-content/uploads/autodesk-maya-small-social-400.png" alt="blender" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.leagueoflegends.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/LoL_icon.svg/1200px-LoL_icon.svg.png" alt="unity" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guisaiuwu&show_icons=true&locale=en&layout=compact" alt="guisaiuwu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guisaiuwu&show_icons=true&locale=en" alt="guisaiuwu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guisaiuwu&" alt="guisaiuwu" /></p>
